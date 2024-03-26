@@ -1,4 +1,4 @@
-# bokep selingkuh 🎥
+# bokep paksa 🎥
 
 An SSR video streaming frontend which uses doodstream.com as a backend. It is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
@@ -16,7 +16,7 @@ An SSR video streaming frontend which uses doodstream.com as a backend. It is bu
 
 ## Live Demo
 
-A live demo of the project is available at [https://bokepselingkuh.pages.dev](https://bokepselingkuh.pages.dev/).
+A live demo of the project is available at [https://bokeppaksa.pages.dev](https://bokeppaksa.pages.dev/).
 
 ## Configuration
 
@@ -24,7 +24,7 @@ The following environment variables are required to run the project:
 
 -   `DOODSTREAM_API_KEY`: API key for doodstream.com
 -   `DOODSTREAM_API_URL`: API URL for doodstream.com (default: `https://doodapi.com`)
--   `SITENAME`: Name of the website (default: `bokep selingkuh`)
+-   `SITENAME`: Name of the website (default: `bokep paksa`)
 
 ## Development
 
